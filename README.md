@@ -1,2 +1,2 @@
 # deljunk.pl
-Delete auxiliary files created by latex
+Pearl script to delete auxiliary files created by latex
